@@ -6,6 +6,6 @@ Master's student in Artificial Intelligence at BTU Cottbus-Senftenberg, passiona
 
 Check out my portfolio at 
 
-Skills: JavaScript / TypeScript / Python / REACT / NodeJS / ExpressJS/ NestJS / FastAPI / HTML / CSS / MySQL / Git / GitHub
+Skills: JavaScript / TypeScript / Python / RAG / LLMs / REACT / NodeJS / ExpressJS/ NestJS / FastAPI / HTML / CSS / MySQL / Git / GitHub
 
 🔭 I’m currently working on this page...
